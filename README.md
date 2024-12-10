@@ -29,8 +29,7 @@
   
 ### Fritzing Diagram
 
-
-
+<img width="740" alt="Screenshot 2024-12-10 at 4 04 53 PM" src="https://github.com/user-attachments/assets/32fd57d6-e7f8-4455-be79-ab1b08daceef">
 
 ### Setup
 1. Solder wires to your photoresistor.
@@ -46,9 +45,14 @@
 ~ *Feel free to make any edits to the code after downloading and experiment on your own!* ~
 ### Media
 
-# Game Play video: 
+# Video: 
+
+
+https://github.com/user-attachments/assets/d85469de-3b4e-45b2-84a1-b924c08507ce
+
 
 
 # Enclosure photos (front and back view)
-![frontview]()
-![backview]()
+![open](https://github.com/user-attachments/assets/3ec398bd-7cab-4c51-abb1-d5eb1f8d38aa)
+![closed](https://github.com/user-attachments/assets/edaaa1ab-e3e9-4c5a-8da3-2d98794d2ece)
+
