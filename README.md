@@ -4,6 +4,8 @@
 
 ![Simple Music Box](https://github.com/user-attachments/assets/e88924c2-04cd-4fbb-b845-dcc613da39e4)
 
+### Goal:
+Create a box that plays music when opened (triggered by a light sensor).
 
 ### Tools Needed:
 1. LILYGO ESP32 Board
@@ -38,12 +40,13 @@
 1. Solder wires to your photoresistor.
 2. Use the enclosure svg file in `/enclosuredesign` and some wood to laser cut the box design
 3. Follow the Fritzing diagram and add your servo motor, photoresistor, 10K Ω resistor, and ESP32 board to the breadboard
-4. Connect your ESP32 board to your computer via a USB-C cord
-5. Download the `/lightsensing` and `/musicbox` folders
-6. Open these folders in the Arduino IDE application and Processing application, respectively
-7. Confirm that your ESP32 board connects to the Arduino application by running the arduino code file `lightsensing.ino` (you should see printed light values read from the serial communication)
-8. Open the `musicbox.pde` from the `/musixbox` folder in the Processing application and ensure that it runs and complies
-9. Once a screen pops up from the Processing application, you should be able to test out your music box!
+4. Loop your connected servo motor and photoresistor through the hole at the bottom of the closure design
+5. Connect your ESP32 board to your computer via a USB-C cord
+6. Download the `/lightsensing` and `/musicbox` folders
+7. Open these folders in the Arduino IDE application and Processing application, respectively
+8. Confirm that your ESP32 board connects to the Arduino application by running the arduino code file `lightsensing.ino` (you should see printed light values read from the serial communication)
+9. Open the `musicbox.pde` from the `/musixbox` folder in the Processing application and ensure that it runs and complies
+10. Once a screen pops up from the Processing application, you should be able to test out your music box!
    
 ~ *Feel free to make any edits to the code after downloading and experiment on your own!* ~
 ### Media
