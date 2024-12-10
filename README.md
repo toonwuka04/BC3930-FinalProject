@@ -2,6 +2,9 @@
 
 ## Blog: [Final Project - Simple Music Box](https://spotted-cayenne-502.notion.site/Final-Project-Simple-Music-Box-15828a677bce800f8b93c8bbda9f6f99)
 
+![Simple Music Box](https://github.com/user-attachments/assets/e88924c2-04cd-4fbb-b845-dcc613da39e4)
+
+
 ### Tools Needed:
 1. LILYGO ESP32 Board
 2. [Arduino IDE](https://www.arduino.cc/en/software)
