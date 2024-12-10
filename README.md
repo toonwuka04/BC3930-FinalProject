@@ -17,15 +17,15 @@
 
 ### Code Description 
 
-`/arduinoButtonAndJoystick` - holds the arduino file for code to uploaded to the ESP32 board for gathering serial communication 
+`/lightsensing` - holds the arduino file for code to uploaded to the ESP32 board for sensing light and gathering serial communication 
 
-- `buttonjoystick.ino` - arduino file with ESP 32 code
+- `lightsensing.ino` - arduino file with ESP 32 code
 
-`/enclosure` - holds the svg files related to the enclosure for laser cutting
+`/enclosuredesign` - holds the svg files related to the enclosure for laser cutting
 
-`/sanrioinvaders` - holds the code for launching the space invaders interface and game through the Processing application
+`/musicbox` - holds the code for launching the audio element of the music box through the Processing application
 
-- `spaceinvaders.pde` - processing file with space invaders code
+- `musicbox.pde` - processing file with audio playing code
   
 ### Fritzing Diagram
 
