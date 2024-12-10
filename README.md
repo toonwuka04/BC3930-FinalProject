@@ -19,6 +19,7 @@ Create a box that plays music when opened (triggered by a light sensor).
 9. Photoresistor
 10. Wires
 11. Breadboard
+12. Figurine & Glue
 
 ### Code Description 
 
@@ -41,12 +42,13 @@ Create a box that plays music when opened (triggered by a light sensor).
 2. Use the enclosure svg file in `/enclosuredesign` and some wood to laser cut the box design
 3. Follow the Fritzing diagram and add your servo motor, photoresistor, 10K Ω resistor, and ESP32 board to the breadboard
 4. Loop your connected servo motor and photoresistor through the hole at the bottom of the closure design
-5. Connect your ESP32 board to your computer via a USB-C cord
-6. Download the `/lightsensing` and `/musicbox` folders
-7. Open these folders in the Arduino IDE application and Processing application, respectively
-8. Confirm that your ESP32 board connects to the Arduino application by running the arduino code file `lightsensing.ino` (you should see printed light values read from the serial communication)
-9. Open the `musicbox.pde` from the `/musixbox` folder in the Processing application and ensure that it runs and complies
-10. Once a screen pops up from the Processing application, you should be able to test out your music box!
+5. Glue the figurine to the servo motor while its inside the enclosure box
+6. Connect your ESP32 board to your computer via a USB-C cord
+7. Download the `/lightsensing` and `/musicbox` folders
+8. Open these folders in the Arduino IDE application and Processing application, respectively
+9. Confirm that your ESP32 board connects to the Arduino application by running the arduino code file `lightsensing.ino` (you should see printed light values read from the serial communication)
+10. Open the `musicbox.pde` from the `/musixbox` folder in the Processing application and ensure that it runs and complies
+11. Once a screen pops up from the Processing application, you should be able to test out your music box!
    
 ~ *Feel free to make any edits to the code after downloading and experiment on your own!* ~
 ### Media
